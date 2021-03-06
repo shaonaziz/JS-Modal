@@ -1,1 +1,1 @@
-# JS-Modal
+# Simple Modal with JavaScript
